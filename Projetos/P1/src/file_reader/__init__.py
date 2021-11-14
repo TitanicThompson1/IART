@@ -1,0 +1,1 @@
+from .puzzle_reader import read_puzzle

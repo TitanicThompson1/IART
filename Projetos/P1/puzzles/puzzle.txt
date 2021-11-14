@@ -1,0 +1,6 @@
+<tamanho puzzle>
+<n de aquarios>
+<id> <maxLevel> <(i,j)> ....
+...
+1 2 2 1 ... 1 -> limites    horizontal
+1 2 2 1 ... 1 -> limites    vertical
